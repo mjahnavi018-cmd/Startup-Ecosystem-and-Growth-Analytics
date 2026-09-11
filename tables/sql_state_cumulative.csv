@@ -1,0 +1,361 @@
+year,state,total,cumulative
+2016,Andaman and Nicobar Islands,0,0
+2017,Andaman and Nicobar Islands,1,1
+2018,Andaman and Nicobar Islands,2,3
+2019,Andaman and Nicobar Islands,8,11
+2020,Andaman and Nicobar Islands,5,16
+2021,Andaman and Nicobar Islands,13,29
+2022,Andaman and Nicobar Islands,9,38
+2023,Andaman and Nicobar Islands,13,51
+2024,Andaman and Nicobar Islands,20,71
+2025,Andaman and Nicobar Islands,18,89
+2016,Andhra Pradesh,4,4
+2017,Andhra Pradesh,103,107
+2018,Andhra Pradesh,161,268
+2019,Andhra Pradesh,179,447
+2020,Andhra Pradesh,235,682
+2021,Andhra Pradesh,299,981
+2022,Andhra Pradesh,381,1362
+2023,Andhra Pradesh,585,1947
+2024,Andhra Pradesh,606,2553
+2025,Andhra Pradesh,1333,3886
+2016,Arunachal Pradesh,0,0
+2017,Arunachal Pradesh,0,0
+2018,Arunachal Pradesh,2,2
+2019,Arunachal Pradesh,2,4
+2020,Arunachal Pradesh,0,4
+2021,Arunachal Pradesh,5,9
+2022,Arunachal Pradesh,9,18
+2023,Arunachal Pradesh,17,35
+2024,Arunachal Pradesh,13,48
+2025,Arunachal Pradesh,37,85
+2016,Assam,10,10
+2017,Assam,35,45
+2018,Assam,68,113
+2019,Assam,71,184
+2020,Assam,119,303
+2021,Assam,190,493
+2022,Assam,285,778
+2023,Assam,361,1139
+2024,Assam,347,1486
+2025,Assam,528,2014
+2016,Bihar,1,1
+2017,Bihar,47,48
+2018,Bihar,148,196
+2019,Bihar,158,354
+2020,Bihar,265,619
+2021,Bihar,390,1009
+2022,Bihar,526,1535
+2023,Bihar,812,2347
+2024,Bihar,841,3188
+2025,Bihar,1376,4564
+2016,Chandigarh,9,9
+2017,Chandigarh,22,31
+2018,Chandigarh,27,58
+2019,Chandigarh,41,99
+2020,Chandigarh,54,153
+2021,Chandigarh,69,222
+2022,Chandigarh,81,303
+2023,Chandigarh,126,429
+2024,Chandigarh,102,531
+2025,Chandigarh,128,659
+2016,Chhattisgarh,11,11
+2017,Chhattisgarh,57,68
+2018,Chhattisgarh,121,189
+2019,Chhattisgarh,166,355
+2020,Chhattisgarh,155,510
+2021,Chhattisgarh,168,678
+2022,Chhattisgarh,237,915
+2023,Chhattisgarh,362,1277
+2024,Chhattisgarh,460,1737
+2025,Chhattisgarh,508,2245
+2016,Dadra and Nagar Haveli and Daman and Diu,0,0
+2017,Dadra and Nagar Haveli and Daman and Diu,4,4
+2018,Dadra and Nagar Haveli and Daman and Diu,1,5
+2019,Dadra and Nagar Haveli and Daman and Diu,3,8
+2020,Dadra and Nagar Haveli and Daman and Diu,5,13
+2021,Dadra and Nagar Haveli and Daman and Diu,12,25
+2022,Dadra and Nagar Haveli and Daman and Diu,12,37
+2023,Dadra and Nagar Haveli and Daman and Diu,11,48
+2024,Dadra and Nagar Haveli and Daman and Diu,16,64
+2025,Dadra and Nagar Haveli and Daman and Diu,25,89
+2016,Delhi,74,74
+2017,Delhi,742,816
+2018,Delhi,1189,2005
+2019,Delhi,1450,3455
+2020,Delhi,1816,5271
+2021,Delhi,2215,7486
+2022,Delhi,2581,10067
+2023,Delhi,3159,13226
+2024,Delhi,2853,16079
+2025,Delhi,3837,19916
+2016,Goa,2,2
+2017,Goa,20,22
+2018,Goa,44,66
+2019,Goa,43,109
+2020,Goa,67,176
+2021,Goa,81,257
+2022,Goa,107,364
+2023,Goa,98,462
+2024,Goa,125,587
+2025,Goa,186,773
+2016,Gujarat,29,29
+2017,Gujarat,299,328
+2018,Gujarat,449,777
+2019,Gujarat,644,1421
+2020,Gujarat,882,2303
+2021,Gujarat,1729,4032
+2022,Gujarat,2283,6315
+2023,Gujarat,3295,9610
+2024,Gujarat,3445,13055
+2025,Gujarat,4637,17692
+2016,Haryana,28,28
+2017,Haryana,270,298
+2018,Haryana,488,786
+2019,Haryana,730,1516
+2020,Haryana,831,2347
+2021,Haryana,1070,3417
+2022,Haryana,1335,4752
+2023,Haryana,1743,6495
+2024,Haryana,1730,8225
+2025,Haryana,2519,10744
+2016,Himachal Pradesh,0,0
+2017,Himachal Pradesh,9,9
+2018,Himachal Pradesh,17,26
+2019,Himachal Pradesh,31,57
+2020,Himachal Pradesh,41,98
+2021,Himachal Pradesh,56,154
+2022,Himachal Pradesh,120,274
+2023,Himachal Pradesh,144,418
+2024,Himachal Pradesh,145,563
+2025,Himachal Pradesh,199,762
+2016,Jammu and Kashmir,2,2
+2017,Jammu and Kashmir,15,17
+2018,Jammu and Kashmir,47,64
+2019,Jammu and Kashmir,38,102
+2020,Jammu and Kashmir,64,166
+2021,Jammu and Kashmir,131,297
+2022,Jammu and Kashmir,169,466
+2023,Jammu and Kashmir,246,712
+2024,Jammu and Kashmir,273,985
+2025,Jammu and Kashmir,412,1397
+2016,Jharkhand,2,2
+2017,Jharkhand,35,37
+2018,Jharkhand,88,125
+2019,Jharkhand,89,214
+2020,Jharkhand,165,379
+2021,Jharkhand,191,570
+2022,Jharkhand,239,809
+2023,Jharkhand,337,1146
+2024,Jharkhand,331,1477
+2025,Jharkhand,467,1944
+2016,Karnataka,67,67
+2017,Karnataka,889,956
+2018,Karnataka,1213,2169
+2019,Karnataka,1746,3915
+2020,Karnataka,1776,5691
+2021,Karnataka,2157,7848
+2022,Karnataka,2568,10416
+2023,Karnataka,3034,13450
+2024,Karnataka,3174,16624
+2025,Karnataka,4541,21165
+2016,Kerala,25,25
+2017,Kerala,172,197
+2018,Kerala,333,530
+2019,Kerala,669,1199
+2020,Kerala,710,1909
+2021,Kerala,923,2832
+2022,Kerala,1078,3910
+2023,Kerala,1296,5206
+2024,Kerala,1155,6361
+2025,Kerala,1729,8090
+2016,Ladakh,0,0
+2017,Ladakh,0,0
+2018,Ladakh,1,1
+2019,Ladakh,0,1
+2020,Ladakh,1,2
+2021,Ladakh,1,3
+2022,Ladakh,5,8
+2023,Ladakh,5,13
+2024,Ladakh,5,18
+2025,Ladakh,7,25
+2016,Lakshadweep,0,0
+2017,Lakshadweep,0,0
+2018,Lakshadweep,0,0
+2019,Lakshadweep,0,0
+2020,Lakshadweep,1,1
+2021,Lakshadweep,0,1
+2022,Lakshadweep,0,1
+2023,Lakshadweep,2,3
+2024,Lakshadweep,0,3
+2025,Lakshadweep,0,3
+2016,Madhya Pradesh,7,7
+2017,Madhya Pradesh,108,115
+2018,Madhya Pradesh,297,412
+2019,Madhya Pradesh,335,747
+2020,Madhya Pradesh,427,1174
+2021,Madhya Pradesh,562,1736
+2022,Madhya Pradesh,898,2634
+2023,Madhya Pradesh,1267,3901
+2024,Madhya Pradesh,1194,5095
+2025,Madhya Pradesh,1724,6819
+2016,Maharashtra,93,93
+2017,Maharashtra,1107,1200
+2018,Maharashtra,1662,2862
+2019,Maharashtra,2229,5091
+2020,Maharashtra,2737,7828
+2021,Maharashtra,3736,11564
+2022,Maharashtra,4811,16375
+2023,Maharashtra,5816,22191
+2024,Maharashtra,5736,27927
+2025,Maharashtra,8067,35994
+2016,Manipur,0,0
+2017,Manipur,4,4
+2018,Manipur,7,11
+2019,Manipur,6,17
+2020,Manipur,13,30
+2021,Manipur,37,67
+2022,Manipur,31,98
+2023,Manipur,26,124
+2024,Manipur,55,179
+2025,Manipur,72,251
+2016,Meghalaya,0,0
+2017,Meghalaya,0,0
+2018,Meghalaya,2,2
+2019,Meghalaya,6,8
+2020,Meghalaya,0,8
+2021,Meghalaya,9,17
+2022,Meghalaya,10,27
+2023,Meghalaya,18,45
+2024,Meghalaya,17,62
+2025,Meghalaya,27,89
+2016,Mizoram,0,0
+2017,Mizoram,0,0
+2018,Mizoram,2,2
+2019,Mizoram,1,3
+2020,Mizoram,1,4
+2021,Mizoram,2,6
+2022,Mizoram,6,12
+2023,Mizoram,13,25
+2024,Mizoram,16,41
+2025,Mizoram,21,62
+2016,Nagaland,1,1
+2017,Nagaland,4,5
+2018,Nagaland,2,7
+2019,Nagaland,2,9
+2020,Nagaland,5,14
+2021,Nagaland,6,20
+2022,Nagaland,7,27
+2023,Nagaland,22,49
+2024,Nagaland,35,84
+2025,Nagaland,30,114
+2016,Odisha,4,4
+2017,Odisha,115,119
+2018,Odisha,168,287
+2019,Odisha,187,474
+2020,Odisha,280,754
+2021,Odisha,397,1151
+2022,Odisha,451,1602
+2023,Odisha,620,2222
+2024,Odisha,548,2770
+2025,Odisha,819,3589
+2016,Puducherry,0,0
+2017,Puducherry,3,3
+2018,Puducherry,16,19
+2019,Puducherry,11,30
+2020,Puducherry,14,44
+2021,Puducherry,17,61
+2022,Puducherry,29,90
+2023,Puducherry,43,133
+2024,Puducherry,27,160
+2025,Puducherry,59,219
+2016,Punjab,7,7
+2017,Punjab,31,38
+2018,Punjab,70,108
+2019,Punjab,99,207
+2020,Punjab,146,353
+2021,Punjab,244,597
+2022,Punjab,294,891
+2023,Punjab,443,1334
+2024,Punjab,406,1740
+2025,Punjab,566,2306
+2016,Rajasthan,14,14
+2017,Rajasthan,140,154
+2018,Rajasthan,246,400
+2019,Rajasthan,358,758
+2020,Rajasthan,502,1260
+2021,Rajasthan,622,1882
+2022,Rajasthan,992,2874
+2023,Rajasthan,1445,4319
+2024,Rajasthan,1246,5565
+2025,Rajasthan,1925,7490
+2016,Sikkim,0,0
+2017,Sikkim,1,1
+2018,Sikkim,0,1
+2019,Sikkim,2,3
+2020,Sikkim,1,4
+2021,Sikkim,4,8
+2022,Sikkim,2,10
+2023,Sikkim,2,12
+2024,Sikkim,0,12
+2025,Sikkim,6,18
+2016,Tamil Nadu,52,52
+2017,Tamil Nadu,272,324
+2018,Tamil Nadu,459,783
+2019,Tamil Nadu,631,1414
+2020,Tamil Nadu,772,2186
+2021,Tamil Nadu,1107,3293
+2022,Tamil Nadu,1812,5105
+2023,Tamil Nadu,2816,7921
+2024,Tamil Nadu,2656,10577
+2025,Tamil Nadu,3201,13778
+2016,Telangana,20,20
+2017,Telangana,328,348
+2018,Telangana,512,860
+2019,Telangana,620,1480
+2020,Telangana,819,2299
+2021,Telangana,993,3292
+2022,Telangana,1381,4673
+2023,Telangana,1760,6433
+2024,Telangana,1809,8242
+2025,Telangana,3192,11434
+2016,Tripura,0,0
+2017,Tripura,0,0
+2018,Tripura,4,4
+2019,Tripura,7,11
+2020,Tripura,23,34
+2021,Tripura,12,46
+2022,Tripura,27,73
+2023,Tripura,23,96
+2024,Tripura,45,141
+2025,Tripura,50,191
+2016,Uttar Pradesh,28,28
+2017,Uttar Pradesh,414,442
+2018,Uttar Pradesh,790,1232
+2019,Uttar Pradesh,905,2137
+2020,Uttar Pradesh,1401,3538
+2021,Uttar Pradesh,1981,5519
+2022,Uttar Pradesh,2581,8100
+2023,Uttar Pradesh,3435,11535
+2024,Uttar Pradesh,3486,15021
+2025,Uttar Pradesh,5141,20162
+2016,Uttarakhand,4,4
+2017,Uttarakhand,45,49
+2018,Uttarakhand,68,117
+2019,Uttarakhand,98,215
+2020,Uttarakhand,114,329
+2021,Uttarakhand,162,491
+2022,Uttarakhand,236,727
+2023,Uttarakhand,271,998
+2024,Uttarakhand,270,1268
+2025,Uttarakhand,440,1708
+2016,West Bengal,8,8
+2017,West Bengal,181,189
+2018,West Bengal,276,465
+2019,West Bengal,320,785
+2020,West Bengal,405,1190
+2021,West Bengal,691,1881
+2022,West Bengal,1002,2883
+2023,West Bengal,1175,4058
+2024,West Bengal,1107,5165
+2025,West Bengal,1603,6768

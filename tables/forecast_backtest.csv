@@ -1,0 +1,5 @@
+method,mape_pct,pred_2023,pred_2024,pred_2025
+linear trend,15.3,28926,32997,37068
+avg growth (last 3 yrs),17.7,34786,45499,59511
+exponential trend,30.5,37223,50349,68103
+naive (last value),30.8,26595,26595,26595

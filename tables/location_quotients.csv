@@ -1,0 +1,629 @@
+state,industry,lq,count
+Goa,Travel & Tourism,4.77403436404593,36
+Jammu and Kashmir,Construction,4.229296022850541,268
+Himachal Pradesh,Travel & Tourism,3.667756250656188,33
+Bihar,Construction,2.8714774118670285,592
+Jammu and Kashmir,Travel & Tourism,2.6216166150574454,45
+Himachal Pradesh,Agriculture,2.4716962953614265,74
+Assam,Construction,2.4486782321354807,206
+Gujarat,Chemicals,2.3558380696413694,321
+Uttarakhand,Travel & Tourism,2.322130544387274,42
+Madhya Pradesh,Human Resources,2.2583373551347146,222
+Rajasthan,Art & Photography,2.212161982867994,36
+Kerala,Robotics,2.203093789194964,40
+Delhi,Security Solutions,2.1010202165912832,222
+Haryana,Pets & Animals,2.0352565325195497,36
+Goa,Food & Beverages,2.0303262050015567,50
+Himachal Pradesh,Construction,1.9870421719787923,66
+Kerala,Advertising,1.9410812552151,62
+Telangana,Aeronautics Aerospace & Defence,1.9387203730529592,154
+Karnataka,AI,1.9368214439284956,669
+Delhi,Events,1.915638877366492,95
+Assam,Travel & Tourism,1.886932361571282,43
+Chhattisgarh,Agriculture,1.875093804073009,153
+Kerala,Travel & Tourism,1.8684976601863972,144
+Tamil Nadu,Biotechnology,1.863250359779819,92
+Rajasthan,Social Impact,1.857566331139223,58
+Rajasthan,Non-Renewable Energy,1.8532221196865912,50
+Tamil Nadu,Robotics,1.8315931934728802,69
+Tamil Nadu,Internet of Things,1.7901959007977686,99
+Kerala,Education,1.7655857429901385,367
+Uttarakhand,Retail,1.7640316131604743,35
+Chandigarh,Healthcare & Lifesciences,1.7595441570221857,57
+Jharkhand,Construction,1.7345703071690985,134
+Karnataka,Pets & Animals,1.7333373204151883,55
+Bihar,Human Resources,1.7287697084970954,123
+Tamil Nadu,AR VR (Augmented + Virtual Reality),1.7276016385321125,46
+Madhya Pradesh,Security Solutions,1.7150021039501664,77
+Telangana,Enterprise Software,1.7036726997109573,167
+Gujarat,Textiles & Apparel,1.6877528755742996,412
+Delhi,Human Resources,1.668501007948934,386
+Kerala,Enterprise Software,1.666578293266086,101
+Karnataka,Aeronautics Aerospace & Defence,1.6628635782877548,210
+Karnataka,Enterprise Software,1.655511767237733,258
+Karnataka,Analytics,1.6438286388386725,69
+Bihar,Security Solutions,1.6309700671288654,53
+Rajasthan,Fashion,1.6237476778415583,160
+Uttar Pradesh,Human Resources,1.6235654980684777,460
+Telangana,AI,1.6109743973173298,350
+Gujarat,Technology Hardware,1.589312849727567,603
+Gujarat,Non-Renewable Energy,1.5790097511992562,105
+Karnataka,Social Network,1.575761200377444,59
+Assam,Agriculture,1.5693206864365077,119
+Odisha,Real Estate,1.5630741931263097,40
+Rajasthan,Renewable Energy,1.545613659535287,228
+Telangana,Biotechnology,1.5328293535363493,59
+Delhi,Telecommunication & Networking,1.522241649369517,109
+Haryana,House-Hold Services,1.5220935606449626,73
+Gujarat,Renewable Energy,1.512748851109343,550
+Gujarat,Fashion,1.5070153911485278,366
+Jharkhand,Human Resources,1.5003598573225037,40
+Gujarat,Safety,1.498977750111075,42
+Punjab,Travel & Tourism,1.4949081692362902,39
+Telangana,AR VR (Augmented + Virtual Reality),1.493502245425038,31
+Karnataka,Toys and Games,1.484412724993244,65
+Madhya Pradesh,Telecommunication & Networking,1.4789935883042689,45
+Punjab,Automotive,1.4763580166633923,45
+Kerala,Biotechnology,1.470769094453305,35
+Kerala,Internet of Things,1.4632651705020125,39
+Telangana,IT Services,1.4628889473476567,1053
+Maharashtra,Design,1.4552611871537402,144
+Andhra Pradesh,Aeronautics Aerospace & Defence,1.4500550636360432,43
+Punjab,Textiles & Apparel,1.4492243927372936,44
+Telangana,Social Network,1.4436916183222892,34
+Andhra Pradesh,AI,1.4425405867451988,117
+Karnataka,Biotechnology,1.4380279991592673,88
+Andhra Pradesh,Agriculture,1.4336621935059937,222
+Haryana,Automotive,1.4332948368641876,185
+West Bengal,Travel & Tourism,1.424018058052825,102
+Tamil Nadu,Logistics,1.4047107280142739,97
+Tamil Nadu,Automotive,1.3970333497932044,261
+Karnataka,Architecture Interior Design,1.3927810384395896,112
+Madhya Pradesh,Renewable Energy,1.3907510043693734,186
+Madhya Pradesh,Agriculture,1.3904518770147123,357
+Tamil Nadu,Analytics,1.3877269617807952,47
+Gujarat,Professional & Commercial Services,1.374868089078179,769
+Chhattisgarh,Construction,1.3697869208336826,124
+Delhi,Advertising,1.3685901034988146,103
+Karnataka,Others,1.367396082972162,30
+Telangana,Analytics,1.363537478161339,36
+Maharashtra,Media & Entertainment,1.3627965442688235,359
+Uttar Pradesh,Construction,1.3617752927511861,1118
+Delhi,Safety,1.3604903216653663,33
+Tamil Nadu,Enterprise Software,1.3599013125527075,171
+Haryana,Sports,1.3579462158695255,42
+Maharashtra,Chemicals,1.3576317223387218,319
+West Bengal,Textiles & Apparel,1.355585201104069,113
+Bihar,Education,1.3543469214150143,204
+Karnataka,Robotics,1.349341144400879,63
+Tamil Nadu,Aeronautics Aerospace & Defence,1.3444870081825178,137
+Karnataka,Internet of Things,1.3423150966178223,92
+Uttar Pradesh,Art & Photography,1.3404041241464555,57
+Delhi,Travel & Tourism,1.3381983318651436,243
+Andhra Pradesh,IT Services,1.328534353498814,357
+Maharashtra,Toys and Games,1.32628962691657,106
+Delhi,Fashion,1.3222604833579703,278
+West Bengal,Transportation & Storage,1.3196126806284665,63
+West Bengal,Finance Technology,1.319277084996553,143
+Bihar,Agriculture,1.3184085777725776,245
+Karnataka,Sports,1.3157091068511009,73
+Gujarat,Waste Management,1.3155445134462633,179
+Jammu and Kashmir,Agriculture,1.3130908992107906,75
+Kerala,IT Services,1.3122920225744228,584
+Kerala,Architecture Interior Design,1.3111140180059662,41
+Gujarat,Other Specialty Retailers,1.3105674747344467,187
+Haryana,Textiles & Apparel,1.3067029624404867,168
+Delhi,House-Hold Services,1.306578117776529,103
+Rajasthan,Finance Technology,1.3044711732913645,168
+Karnataka,Real Estate,1.300235175164099,180
+Delhi,Retail,1.295194213270933,258
+Telangana,Robotics,1.293963235748144,38
+West Bengal,Social Impact,1.2938085930604635,34
+Karnataka,Finance Technology,1.2937628235263414,388
+West Bengal,Fashion,1.290200230144916,107
+Karnataka,IT Services,1.2897698425334507,1476
+Haryana,Retail,1.2789902104668889,155
+Uttar Pradesh,Telecommunication & Networking,1.2771677346855632,112
+Karnataka,AR VR (Augmented + Virtual Reality),1.2727302003048584,42
+Maharashtra,Sports,1.2639741320521958,128
+Delhi,Media & Entertainment,1.2628093125797533,167
+Delhi,Logistics,1.262488900189471,99
+West Bengal,Retail,1.2599447415961176,99
+Andhra Pradesh,Education,1.2588290807165725,158
+Bihar,Real Estate,1.256071250126749,49
+Tamil Nadu,Indic Language Startups,1.2558281909676543,35
+Maharashtra,Logistics,1.254768811969718,196
+Gujarat,Design,1.2547582504513153,72
+Tamil Nadu,Green Technology,1.2535529026654582,201
+Chhattisgarh,Renewable Energy,1.2469703554214118,53
+Maharashtra,Finance Technology,1.2404632770604072,679
+Madhya Pradesh,Construction,1.23925937769724,353
+Himachal Pradesh,Healthcare & Lifesciences,1.2385632224077652,55
+Andhra Pradesh,Construction,1.234040693849577,212
+Delhi,Professional & Commercial Services,1.2308824303771997,596
+Kerala,Retail,1.2301678831242941,104
+Haryana,Waste Management,1.2279795721987568,88
+Haryana,Advertising,1.2230508964122877,56
+West Bengal,House-Hold Services,1.2220328110739072,38
+Uttarakhand,Healthcare & Lifesciences,1.2210481869393723,109
+Uttar Pradesh,Others,1.218549203769505,30
+Haryana,Real Estate,1.2180735632666302,94
+Bihar,Food & Beverages,1.2172304969411116,222
+Uttar Pradesh,Real Estate,1.2166339987341108,189
+Tamil Nadu,IT Services,1.214032154888415,1121
+Gujarat,Automotive,1.2118930752939634,297
+Maharashtra,Transportation & Storage,1.2111639568369057,292
+Haryana,Other Specialty Retailers,1.2109190869152593,91
+Delhi,Other Specialty Retailers,1.2062565041473936,149
+Haryana,AI,1.204890860605041,232
+Uttar Pradesh,Advertising,1.2042924470808112,111
+Gujarat,Indic Language Startups,1.2035286922526616,44
+Rajasthan,Textiles & Apparel,1.2014911049071864,119
+Madhya Pradesh,Social Impact,1.2010624573572044,34
+Maharashtra,Safety,1.2003966660778236,58
+Delhi,Sports,1.1998937219995793,61
+Maharashtra,Agriculture,1.1963791447868253,1440
+Odisha,Agriculture,1.1894695919406857,145
+West Bengal,Professional & Commercial Services,1.188494795803082,227
+Kerala,Marketing,1.1875775296827928,78
+Jharkhand,Renewable Energy,1.1855080147377697,43
+Haryana,Architecture Interior Design,1.1823252122710026,53
+Haryana,Transportation & Storage,1.1815290439872703,87
+Rajasthan,Transportation & Storage,1.1811524535232412,67
+Chhattisgarh,Education,1.1793480478672937,78
+Telangana,Media & Entertainment,1.1786538631628785,107
+Uttar Pradesh,Safety,1.1782091045579575,35
+Jharkhand,Agriculture,1.177609226755362,82
+Kerala,Media & Entertainment,1.1759289870404654,66
+Assam,Healthcare & Lifesciences,1.1736288398737658,132
+Punjab,Renewable Energy,1.1720640089826697,53
+Delhi,Social Impact,1.1708050920520812,78
+Madhya Pradesh,Real Estate,1.168860158720099,63
+Gujarat,House-Hold Services,1.1640413297565857,106
+Uttar Pradesh,Professional & Commercial Services,1.16356920023693,690
+Tamil Nadu,Transportation & Storage,1.1634542024527084,124
+Delhi,Marketing,1.163118647127176,180
+Telangana,Healthcare & Lifesciences,1.1621720282435826,715
+Karnataka,Design,1.1620580089740011,63
+Haryana,Marketing,1.1577061596532001,109
+Tamil Nadu,Waste Management,1.1568902859367554,120
+Rajasthan,Education,1.1544605704540163,265
+Gujarat,Agriculture,1.1533240044159538,805
+Uttar Pradesh,Education,1.1503468229615101,690
+Tamil Nadu,AI,1.1481857745989983,320
+Haryana,Telecommunication & Networking,1.147750364755482,50
+Kerala,AI,1.146505042132891,154
+Gujarat,Transportation & Storage,1.1444298539920486,160
+Tamil Nadu,Renewable Energy,1.1437255319571722,317
+Gujarat,Toys and Games,1.1435561303716353,53
+Tamil Nadu,Design,1.1430256587641574,50
+Maharashtra,Automotive,1.1428937987534897,483
+Rajasthan,Waste Management,1.141182292290506,63
+Telangana,Education,1.1391656182386931,383
+Madhya Pradesh,Waste Management,1.1388320164197139,57
+Maharashtra,Architecture Interior Design,1.1378171874318508,167
+Chhattisgarh,Food & Beverages,1.136341519157187,91
+Odisha,IT Services,1.1345073086764834,240
+Haryana,Logistics,1.1318958470050462,54
+Karnataka,Retail,1.131551620954945,246
+Delhi,Textiles & Apparel,1.1309545760480104,239
+Maharashtra,Marketing,1.128875447648066,348
+Karnataka,Education,1.1281017684520336,603
+Uttarakhand,Education,1.1274381152342263,55
+Maharashtra,Advertising,1.1272964656620317,169
+Karnataka,Events,1.1270519808394783,61
+Punjab,Fashion,1.1256071358267028,34
+Maharashtra,Non-Renewable Energy,1.1249574965870395,129
+Punjab,Education,1.1227154062645333,79
+Haryana,Aeronautics Aerospace & Defence,1.1221752238208016,79
+Gujarat,Green Technology,1.1220189728412233,236
+Odisha,Marketing,1.121021205738535,35
+Uttar Pradesh,Security Solutions,1.1205160262125766,145
+West Bengal,Real Estate,1.1192174492763884,56
+Punjab,Agriculture,1.1173738500356076,97
+Uttarakhand,Food & Beverages,1.1173623971011624,66
+Uttar Pradesh,Other Specialty Retailers,1.1171536726241922,169
+Delhi,Healthcare & Lifesciences,1.113560241150314,998
+Jharkhand,Professional & Commercial Services,1.1111131264534082,62
+Delhi,Green Technology,1.1093668592832058,202
+Rajasthan,Agriculture,1.1087842718945327,314
+West Bengal,Other Specialty Retailers,1.1082768809735857,54
+Delhi,Social Network,1.1076381692860007,38
+Andhra Pradesh,Other Specialty Retailers,1.1056667025472744,35
+West Bengal,Agriculture,1.1034379955193814,263
+Telangana,Real Estate,1.102497886729884,96
+Karnataka,Technology Hardware,1.1019169749730986,395
+Chhattisgarh,Professional & Commercial Services,1.101141943897314,72
+Karnataka,Indic Language Startups,1.1001377409459319,38
+Karnataka,Green Technology,1.096994339313859,218
+Uttarakhand,Agriculture,1.0966249866518005,66
+West Bengal,Chemicals,1.0960927728533363,51
+Tamil Nadu,Agriculture,1.0956766772548343,583
+Madhya Pradesh,Advertising,1.0944625106485109,35
+West Bengal,Food & Beverages,1.0943797939175441,256
+Haryana,Events,1.0937657244835661,33
+Tamil Nadu,Textiles & Apparel,1.0908526479561018,203
+Telangana,Internet of Things,1.0902387956448008,47
+Maharashtra,Pets & Animals,1.0878077373974209,63
+Telangana,Architecture Interior Design,1.0873882588431196,55
+Maharashtra,Food & Beverages,1.0869442769904658,1284
+Delhi,Architecture Interior Design,1.085752243316011,80
+Uttar Pradesh,Textiles & Apparel,1.0857413909163243,281
+Haryana,Green Technology,1.083241767612291,120
+Rajasthan,House-Hold Services,1.0826410359897218,40
+Jammu and Kashmir,Education,1.079989054823529,50
+Uttarakhand,Construction,1.0783170196559917,72
+Tamil Nadu,Technology Hardware,1.071796138703589,310
+Delhi,Toys and Games,1.071730753424326,43
+Rajasthan,Other Specialty Retailers,1.0709555022791402,62
+Odisha,Renewable Energy,1.0708852726145652,68
+Maharashtra,Analytics,1.0703171882240041,82
+Maharashtra,Social Impact,1.070024236010209,142
+Maharashtra,Healthcare & Lifesciences,1.0698719778524803,1910
+Maharashtra,Green Technology,1.0669647059326894,387
+Delhi,Transportation & Storage,1.0658461645242616,129
+Andhra Pradesh,Enterprise Software,1.0657513351753358,39
+Haryana,Finance Technology,1.0647292924221412,178
+Maharashtra,Real Estate,1.0646157365928335,269
+Odisha,Travel & Tourism,1.064567216642854,39
+Delhi,Finance Technology,1.0626291340228995,292
+Rajasthan,Marketing,1.061618738900657,77
+West Bengal,Green Technology,1.05812877528206,76
+Odisha,Textiles & Apparel,1.055489811130841,45
+Gujarat,Healthcare & Lifesciences,1.052868305693526,1090
+Haryana,Healthcare & Lifesciences,1.052726123786515,574
+Uttarakhand,Renewable Energy,1.0526326409217732,33
+Maharashtra,Renewable Energy,1.0494963361888257,658
+Punjab,Retail,1.048267549223882,30
+Uttar Pradesh,Social Network,1.0472245295994906,44
+Rajasthan,Travel & Tourism,1.045756456321225,89
+Punjab,Food & Beverages,1.044606419622073,89
+Madhya Pradesh,Food & Beverages,1.0437089552850773,263
+Assam,Education,1.0412632336991126,64
+Kerala,Food & Beverages,1.040984188878262,262
+Kerala,Waste Management,1.040177215702418,52
+Haryana,Fashion,1.039786553281367,133
+Uttar Pradesh,Events,1.0372976639123324,63
+Odisha,Food & Beverages,1.036437079143019,124
+Maharashtra,Technology Hardware,1.0362693839648336,678
+Odisha,Construction,1.0351734851503795,140
+Delhi,Pets & Animals,1.0318523998085374,30
+Maharashtra,Internet of Things,1.0312110385381195,129
+West Bengal,Education,1.0300565878924088,199
+Punjab,IT Services,1.0288905578996665,155
+Rajasthan,Construction,1.0280629146184062,323
+Haryana,Security Solutions,1.0266951847746681,66
+Gujarat,Logistics,1.0266908742437537,93
+Tamil Nadu,Non-Renewable Energy,1.0257871828262697,52
+Maharashtra,Social Network,1.0243010709956881,70
+Haryana,Human Resources,1.0231092084478888,144
+Maharashtra,Robotics,1.020919882994343,87
+Maharashtra,Fashion,1.0195660561673003,427
+Uttar Pradesh,Technology Hardware,1.0192585735795843,410
+Maharashtra,House-Hold Services,1.0189043319493463,160
+Haryana,Education,1.0168803486059206,303
+Madhya Pradesh,Retail,1.0160388535647487,86
+Chhattisgarh,Technology Hardware,1.0145669560852053,45
+Delhi,Technology Hardware,1.0138458708285705,333
+Uttar Pradesh,Waste Management,1.0120775850395898,146
+Uttar Pradesh,Pets & Animals,1.0110476822133263,36
+Madhya Pradesh,Professional & Commercial Services,1.0109515045790287,208
+Gujarat,Architecture Interior Design,1.0104238272612152,86
+West Bengal,Healthcare & Lifesciences,1.0098398519012108,357
+Punjab,Healthcare & Lifesciences,1.0096299496247816,130
+Assam,Food & Beverages,1.0077711381621803,75
+Odisha,Human Resources,1.0070042348876316,47
+Uttar Pradesh,IT Services,1.0060906499970648,1292
+West Bengal,Logistics,1.0022018083458761,31
+Maharashtra,Events,1.002167932275681,99
+Telangana,Retail,1.0018828859379563,137
+Delhi,Waste Management,1.0017748968522002,118
+Haryana,Enterprise Software,1.0014472467070696,87
+Andhra Pradesh,Transportation & Storage,0.9994689280776882,31
+West Bengal,Marketing,0.9992691103802216,61
+Telangana,Events,0.9987347376333424,34
+Uttar Pradesh,Architecture Interior Design,0.9973694723073965,90
+Chhattisgarh,Finance Technology,0.9971054449909539,37
+Kerala,Healthcare & Lifesciences,0.9964103745574641,379
+Uttar Pradesh,Renewable Energy,0.9961937222476692,384
+Andhra Pradesh,Food & Beverages,0.9935888755522276,151
+Rajasthan,Food & Beverages,0.9930300837322171,276
+Tamil Nadu,Education,0.9877323626826716,426
+Rajasthan,Professional & Commercial Services,0.987062535883304,224
+Jharkhand,AI,0.9870477644038989,36
+Telangana,Non-Renewable Energy,0.9869086196552549,39
+Haryana,Travel & Tourism,0.9866452769597036,109
+Delhi,Design,0.9864140834290087,49
+Maharashtra,Indic Language Startups,0.9834365663260439,62
+Jammu and Kashmir,Professional & Commercial Services,0.9831624499083162,45
+Maharashtra,Telecommunication & Networking,0.9815228360121095,140
+Maharashtra,Professional & Commercial Services,0.9787180039488053,944
+Delhi,Aeronautics Aerospace & Defence,0.9765437284620162,113
+Gujarat,Construction,0.9749944969300984,755
+Karnataka,Food & Beverages,0.9749456817575527,631
+Tamil Nadu,Food & Beverages,0.9746923548562874,509
+Odisha,Healthcare & Lifesciences,0.9733972461559971,176
+Uttar Pradesh,Healthcare & Lifesciences,0.9721211854732875,1067
+Haryana,Professional & Commercial Services,0.9708601575704189,286
+Delhi,Real Estate,0.9696844752621161,123
+Tamil Nadu,Marketing,0.9686084100934788,132
+Maharashtra,Other Specialty Retailers,0.9672653422274011,238
+Rajasthan,Retail,0.964015542992933,90
+Delhi,Automotive,0.9615539199468753,204
+Madhya Pradesh,Media & Entertainment,0.9609742259685524,54
+Rajasthan,Green Technology,0.9608686147199839,82
+Uttar Pradesh,Fashion,0.9592724892153086,247
+Haryana,Media & Entertainment,0.9570450089231203,77
+Delhi,Education,0.9555485249244597,468
+Madhya Pradesh,House-Hold Services,0.9553110675514564,32
+Assam,Professional & Commercial Services,0.9544912975575198,58
+Karnataka,Travel & Tourism,0.9536743220948574,189
+Jharkhand,IT Services,0.9516908684622608,115
+Uttarakhand,AI,0.9516642988433784,30
+Delhi,Food & Beverages,0.9510560009441346,564
+Tamil Nadu,Finance Technology,0.9504942509457209,230
+Maharashtra,Waste Management,0.9504040332221628,223
+West Bengal,Construction,0.9492173533065726,251
+Uttar Pradesh,Food & Beverages,0.945924636146497,687
+Telangana,Sports,0.9456013584253402,33
+Uttar Pradesh,AR VR (Augmented + Virtual Reality),0.945156754205834,35
+Madhya Pradesh,IT Services,0.94488848606652,421
+Telangana,Green Technology,0.9440326766761277,118
+Uttar Pradesh,Social Impact,0.9437425545736058,77
+Tamil Nadu,Retail,0.9406367118453662,165
+Rajasthan,Chemicals,0.9406015817609296,52
+Haryana,Food & Beverages,0.9396086737305435,339
+West Bengal,Media & Entertainment,0.939330662320612,49
+Andhra Pradesh,Automotive,0.9380293737675094,51
+Karnataka,Automotive,0.9371892182354492,217
+Jharkhand,Food & Beverages,0.936490198099044,64
+Haryana,Technology Hardware,0.9358142250702842,187
+Uttar Pradesh,Retail,0.9345937012397303,228
+Uttar Pradesh,House-Hold Services,0.9322094014084938,90
+Telangana,Marketing,0.9318969909119295,99
+Andhra Pradesh,Healthcare & Lifesciences,0.931750716341217,214
+Uttar Pradesh,Sports,0.9315662649296717,58
+Odisha,Education,0.9310842730120272,92
+Karnataka,Marketing,0.9295553189558834,157
+Rajasthan,IT Services,0.9258476315756594,455
+Maharashtra,Others,0.9239872884229701,37
+Telangana,House-Hold Services,0.9239518973022771,50
+Karnataka,Art & Photography,0.92359209113032,35
+Gujarat,Art & Photography,0.9224741178058813,37
+Haryana,IT Services,0.9185858151781133,586
+Uttar Pradesh,Aeronautics Aerospace & Defence,0.9173380701265523,130
+Gujarat,Food & Beverages,0.9152903981527892,627
+Tamil Nadu,Healthcare & Lifesciences,0.914835825980865,722
+West Bengal,Security Solutions,0.9117210202115863,38
+West Bengal,IT Services,0.9114739279517858,377
+Bihar,Media & Entertainment,0.9097370726196184,37
+Telangana,Advertising,0.9097356837830788,47
+Karnataka,Healthcare & Lifesciences,0.9078627881681519,888
+Tamil Nadu,Telecommunication & Networking,0.9039715221493058,57
+Kerala,Technology Hardware,0.9038869245122739,126
+Jharkhand,Education,0.903594014309709,51
+Punjab,Human Resources,0.902601645615393,30
+Kerala,Logistics,0.9014247627929608,30
+Madhya Pradesh,Healthcare & Lifesciences,0.9006871572477522,343
+Uttar Pradesh,Marketing,0.8969603550380646,170
+Rajasthan,Enterprise Software,0.8965325856494294,60
+Gujarat,Finance Technology,0.8947085482611506,284
+Madhya Pradesh,Travel & Tourism,0.8942521159414588,69
+Andhra Pradesh,Human Resources,0.8939594613434548,53
+Uttarakhand,Professional & Commercial Services,0.8915832451507446,43
+Telangana,Technology Hardware,0.8914663654957615,201
+Madhya Pradesh,Finance Technology,0.8906947279611788,104
+Odisha,Professional & Commercial Services,0.8906023480984608,87
+Punjab,Technology Hardware,0.8900464886834641,42
+Haryana,Internet of Things,0.8899012616469225,34
+Delhi,IT Services,0.8888279405781639,932
+Delhi,AI,0.8878624979979847,281
+Karnataka,Security Solutions,0.8845074662496027,102
+Delhi,Analytics,0.8840204145227931,34
+Uttar Pradesh,Media & Entertainment,0.8829378924968068,143
+Telangana,Design,0.879762893518255,30
+Telangana,Food & Beverages,0.879409624578429,358
+Maharashtra,Enterprise Software,0.8789087142051426,250
+Madhya Pradesh,Green Technology,0.8788796448909469,68
+Tamil Nadu,Architecture Interior Design,0.8784931816152216,57
+Haryana,Renewable Energy,0.877342923317128,168
+Karnataka,Advertising,0.8765823896139423,72
+Madhya Pradesh,Other Specialty Retailers,0.8764111748253883,46
+Karnataka,Fashion,0.8759762974836284,201
+Kerala,Aeronautics Aerospace & Defence,0.8755834881859743,43
+Karnataka,Other Specialty Retailers,0.8753051456030724,118
+Jammu and Kashmir,Food & Beverages,0.8741088608901438,49
+Goa,IT Services,0.8726783705065868,38
+Uttar Pradesh,AI,0.8720249402583589,338
+Odisha,Green Technology,0.8711001068992246,32
+Madhya Pradesh,Textiles & Apparel,0.868637429273461,78
+Rajasthan,Security Solutions,0.8683044959833447,43
+Maharashtra,Art & Photography,0.8674702850059178,60
+Bihar,Retail,0.8651350814795314,53
+Maharashtra,Security Solutions,0.8646969261282783,182
+Odisha,Automotive,0.8644491859577466,37
+Haryana,Chemicals,0.8639488801970703,62
+Haryana,Social Impact,0.8635318829095485,35
+Rajasthan,AI,0.8629302619668208,128
+Maharashtra,IT Services,0.8622451675745134,1801
+Punjab,Construction,0.8617962965395545,83
+Bihar,Marketing,0.8614463478555038,41
+Bihar,Professional & Commercial Services,0.859553962295398,128
+Maharashtra,Retail,0.8593792013078503,341
+Maharashtra,Human Resources,0.8593095232582859,396
+Madhya Pradesh,Enterprise Software,0.8570151716392028,52
+Andhra Pradesh,Technology Hardware,0.8553876713745314,72
+Gujarat,Analytics,0.8553253684681933,38
+Rajasthan,Media & Entertainment,0.8551130054518694,53
+Gujarat,Enterprise Software,0.8548147030052518,141
+Telangana,Logistics,0.8545380534922373,46
+Telangana,Telecommunication & Networking,0.8544518497140176,42
+Kerala,Green Technology,0.8540506146753746,66
+Tamil Nadu,Professional & Commercial Services,0.8536787826197005,364
+Rajasthan,Healthcare & Lifesciences,0.8523000992891374,358
+Uttar Pradesh,Non-Renewable Energy,0.8510502375533051,60
+Telangana,Agriculture,0.8510341318135026,353
+Rajasthan,Advertising,0.8505184959886143,30
+Tamil Nadu,Media & Entertainment,0.8501181538964279,99
+Odisha,AI,0.8457215998478297,54
+Karnataka,Telecommunication & Networking,0.8445495064667969,66
+Maharashtra,AI,0.8438520214281539,532
+Andhra Pradesh,Renewable Energy,0.8430463695266012,68
+Karnataka,Logistics,0.8412962340998216,72
+Uttar Pradesh,Finance Technology,0.840926650235372,283
+Gujarat,Marketing,0.839087307400571,150
+Madhya Pradesh,Chemicals,0.8379574940683528,42
+Uttar Pradesh,Agriculture,0.8378293581412177,620
+West Bengal,Renewable Energy,0.837672419620163,104
+Tamil Nadu,Chemicals,0.8375641256741417,87
+Maharashtra,Textiles & Apparel,0.8361904340581153,352
+Chhattisgarh,Healthcare & Lifesciences,0.8345359412991652,101
+Madhya Pradesh,Automotive,0.83195802213409,75
+Maharashtra,Aeronautics Aerospace & Defence,0.8286323595872513,191
+Telangana,Other Specialty Retailers,0.8255295835614025,70
+Telangana,Finance Technology,0.8216971241455772,155
+Odisha,Retail,0.8211517062742688,33
+Maharashtra,Construction,0.8207608978298039,1096
+Jharkhand,Technology Hardware,0.8190033401741169,31
+Maharashtra,Travel & Tourism,0.8183162810552929,296
+Gujarat,Biotechnology,0.8182779421770368,53
+Tamil Nadu,Other Specialty Retailers,0.8182126645695494,89
+Haryana,Construction,0.8140465684936379,332
+Andhra Pradesh,Professional & Commercial Services,0.8139439014556161,101
+Uttarakhand,IT Services,0.8138490141815947,85
+Maharashtra,Education,0.8138468109203529,794
+Punjab,AI,0.8137234170816986,37
+Kerala,Automotive,0.8107411022394744,73
+Uttar Pradesh,Travel & Tourism,0.8093931582220134,180
+Andhra Pradesh,Marketing,0.8068713192854767,32
+Telangana,Transportation & Storage,0.8064191281560835,67
+Karnataka,Human Resources,0.8000453634950468,202
+Uttar Pradesh,Indic Language Startups,0.7997861878109209,31
+Bihar,Healthcare & Lifesciences,0.798176101069646,220
+Madhya Pradesh,Transportation & Storage,0.7972331487508497,41
+Maharashtra,Biotechnology,0.7968303590812383,89
+Delhi,Internet of Things,0.7961824072596739,50
+West Bengal,Technology Hardware,0.7949980112347336,103
+Uttar Pradesh,Enterprise Software,0.7948333937637891,139
+Andhra Pradesh,Green Technology,0.7929180957696623,37
+Telangana,Waste Management,0.7914970724196206,64
+Telangana,Renewable Energy,0.7914383211523686,171
+Madhya Pradesh,Marketing,0.7907724530583948,52
+Punjab,Professional & Commercial Services,0.7906216450342415,55
+Telangana,Chemicals,0.790382287810579,64
+Uttar Pradesh,Design,0.7890004209022614,48
+Tamil Nadu,Social Impact,0.7840984992839014,46
+Uttar Pradesh,Robotics,0.7825530873657623,41
+Andhra Pradesh,Finance Technology,0.7810239356350739,55
+Odisha,Fashion,0.7780014980820611,33
+Chhattisgarh,IT Services,0.7768460603302599,110
+Uttar Pradesh,Chemicals,0.7752947797879968,112
+Rajasthan,Real Estate,0.773765746317867,46
+Gujarat,Retail,0.773569914807709,178
+Madhya Pradesh,Fashion,0.7723568255424846,69
+Gujarat,IT Services,0.7719297452785083,935
+Telangana,Social Impact,0.7653132735385321,35
+West Bengal,Automotive,0.7647589417362323,64
+Karnataka,Transportation & Storage,0.7646281185084781,101
+West Bengal,Enterprise Software,0.7634103812114283,43
+Delhi,Chemicals,0.762989450562651,90
+Karnataka,Waste Management,0.7623217090683543,98
+Telangana,Automotive,0.7621626382922833,111
+Karnataka,Media & Entertainment,0.7621458067152209,110
+Uttar Pradesh,Automotive,0.7620465106737093,198
+Madhya Pradesh,Education,0.7592077896603655,158
+Bihar,Finance Technology,0.7573065366112266,64
+Uttar Pradesh,Biotechnology,0.7572455891474297,52
+Odisha,Technology Hardware,0.7545568705437138,50
+Chhattisgarh,AI,0.748737986699031,32
+Telangana,Fashion,0.7483024722110232,108
+Kerala,Professional & Commercial Services,0.7445221097942067,153
+Delhi,Renewable Energy,0.7434565984368718,234
+Kerala,Construction,0.7381183187776809,210
+Madhya Pradesh,Technology Hardware,0.738008906486724,103
+Tamil Nadu,Sports,0.7371394885637872,33
+Karnataka,Professional & Commercial Services,0.7361121545081112,389
+Uttar Pradesh,Green Technology,0.7354285401338825,164
+Gujarat,Travel & Tourism,0.7341745247570559,154
+Bihar,Travel & Tourism,0.734160359585912,41
+Kerala,Finance Technology,0.7288424321494072,85
+Kerala,Fashion,0.7284528308307134,65
+Bihar,Fashion,0.7268803776062268,47
+Tamil Nadu,Construction,0.7267263656770123,429
+Bihar,Textiles & Apparel,0.723165973160912,47
+Telangana,Human Resources,0.7178359781798503,114
+Gujarat,Internet of Things,0.7168202997507735,52
+Jammu and Kashmir,IT Services,0.7163126010837462,71
+Telangana,Professional & Commercial Services,0.7160254706758857,238
+Madhya Pradesh,AI,0.7138505536270331,96
+Bihar,Renewable Energy,0.7128230222130908,69
+Uttar Pradesh,Toys and Games,0.7122920466478748,35
+Madhya Pradesh,Aeronautics Aerospace & Defence,0.7118327599767055,35
+West Bengal,Waste Management,0.7102368336500918,33
+Karnataka,House-Hold Services,0.709009517978049,61
+Uttar Pradesh,Logistics,0.708066585354201,68
+Tamil Nadu,Fashion,0.7075649471060179,131
+Tamil Nadu,Travel & Tourism,0.7066680317047501,113
+Rajasthan,Automotive,0.7039922085042799,70
+Karnataka,Agriculture,0.7036118200200628,464
+Gujarat,Real Estate,0.7029540464081562,103
+Gujarat,Telecommunication & Networking,0.7012122189780456,58
+Kerala,Transportation & Storage,0.7008469260754057,36
+Uttar Pradesh,Analytics,0.7005999957741733,33
+Bihar,IT Services,0.6977135674955139,225
+Gujarat,Security Solutions,0.6964028855525023,85
+Delhi,Construction,0.6891802273814147,462
+Kerala,Renewable Energy,0.6887211911589959,92
+Gujarat,Aeronautics Aerospace & Defence,0.6882804888213845,92
+Jharkhand,Healthcare & Lifesciences,0.687444750179964,71
+Andhra Pradesh,Retail,0.6856240144653032,35
+Rajasthan,Technology Hardware,0.6820926026251634,105
+Karnataka,Textiles & Apparel,0.6763880624261669,156
+Telangana,Security Solutions,0.6755453958561822,49
+Bihar,Automotive,0.6743556738011284,44
+Tamil Nadu,Real Estate,0.6714433633997703,75
+Gujarat,Robotics,0.6677831530314524,33
+Andhra Pradesh,Travel & Tourism,0.6661602141853576,31
+Delhi,Enterprise Software,0.6652916869038952,95
+West Bengal,AI,0.664842232558768,83
+Maharashtra,AR VR (Augmented + Virtual Reality),0.6641072877884132,40
+Tamil Nadu,House-Hold Services,0.6626417243684815,46
+West Bengal,Aeronautics Aerospace & Defence,0.657257606288475,30
+Haryana,Agriculture,0.6501436201435109,239
+Telangana,Travel & Tourism,0.6498010831997141,81
+Tamil Nadu,Advertising,0.6488247635642725,43
+Gujarat,Sports,0.647084388236558,38
+Telangana,Construction,0.6410531683005178,295
+Rajasthan,Human Resources,0.6363771784348563,69
+Uttar Pradesh,Transportation & Storage,0.6341696931445596,94
+Karnataka,Renewable Energy,0.6200738848674502,213
+Uttar Pradesh,Internet of Things,0.611101351132026,47
+Karnataka,Social Impact,0.6051551742097915,44
+Kerala,Agriculture,0.6044197199700578,155
+Odisha,Finance Technology,0.5952605174261478,33
+Karnataka,Construction,0.5945716053468794,435
+Kerala,Other Specialty Retailers,0.5913314113062813,31
+Kerala,Human Resources,0.5907218266001221,58
+Rajasthan,Aeronautics Aerospace & Defence,0.5900510226298613,32
+Delhi,Biotechnology,0.588538035446351,33
+Gujarat,Human Resources,0.5874936819363266,157
+Gujarat,Media & Entertainment,0.5826069898583186,89
+Jammu and Kashmir,Healthcare & Lifesciences,0.5783912464449659,49
+Himachal Pradesh,IT Services,0.5774246983453311,30
+Tamil Nadu,Human Resources,0.5743119083740973,117
+Assam,IT Services,0.5699499449686926,75
+Gujarat,Advertising,0.5636332820505956,49
+Tamil Nadu,Security Solutions,0.5588604698888403,52
+Gujarat,Social Impact,0.5587568171949489,43
+Gujarat,Events,0.5586044546956164,32
+Kerala,Textiles & Apparel,0.5574849161927116,50
+Gujarat,AI,0.5552643739256597,203
+West Bengal,Human Resources,0.5479113378574779,50
+Delhi,Non-Renewable Energy,0.5385088281829068,31
+Gujarat,Education,0.5267293722284087,298
+Telangana,Textiles & Apparel,0.5238923478068351,76
+Bihar,Technology Hardware,0.5147826615520547,52
+Karnataka,Non-Renewable Energy,0.4934201738555632,31
+Karnataka,Chemicals,0.44276670348633806,57
+Delhi,Agriculture,0.40381355945215425,244
+Bihar,AI,0.3801316061969639,37
