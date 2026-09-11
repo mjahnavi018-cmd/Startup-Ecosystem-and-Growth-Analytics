@@ -1,0 +1,10 @@
+organisation,Department for Promotion of Industry and Internal Trade
+sectors,"Commerce, Industries and Factories"
+updated_frequency,Monthly
+granularity,"Yearly, State"
+time_saved,3.5 hours
+source,"DPIIT StartupIndia"
+source_link,"https://www.startupindia.gov.in/content/sih/en/startup-scheme.html"
+time_period,"2016 to 2026"
+units,"startups_recognized in absolute number"
+citation,"Department for Promotion of Industry and Internal Trade. Startups Data: Year, State and Industry wise number of Startups Recognized by the DPIIT (as of May, 2026) [Data set]. Dataful. https://dataful.in/collections/932/15737"
